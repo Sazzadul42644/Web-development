@@ -74,6 +74,41 @@ h4{
     color:beige;
     margin-bottom: 0%; 
 }
+.donation{
+    display: flex;
+    
+}
 .footer-h1{
     color: palevioletred;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 5px 7px 40px gray;
+    border: 7px;
+    height: 80%;
+}
+#food-family{
+    background-color: aquamarine;
+}
+#shelter-family{
+    background-color: bisque;
+}
+#education-child{
+    background-color: azure;
+}
+.suvive{
+    margin-top: 200px;
+    display: flex;   
+}
+.width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.width img{
+    width: 100%;
 }
