@@ -53,9 +53,20 @@ body{
 }
 #first{
     margin-left: 400px;
+    background-color: aliceblue;
 }
 #second{
-    border: 7px solid red;
+    border: 7px solid rgb(255, 0, 0);
+    background-color:rgb(235, 122, 122);
+}
+#third{
+    background-color: aliceblue;
+}
+#fourth{
+    background-color: aliceblue;
+}
+#fifth{
+    background-color: aliceblue;
 }
 h5{
     text-align: center;
